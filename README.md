@@ -4,20 +4,31 @@ Category:Cloud App Development
 
 Team Member:
           Shunmugapavithra B
+          
           Sivasakthi V
+          
           Priyadharshini A
+          
           Sharon Renisha S
           
 Skills Required:
 
   •	IBM Cloud
+  
   •	HTML
+  
   •	Javascript
+  
   •	IBM Cloud Object Storage
+  
   •	Python-Flask
+  
   •	Kubernetes
+  
   •	Docker
+  
   •	IBM DB2
+  
   •	IBM Container Registry
   
 Project Description:
