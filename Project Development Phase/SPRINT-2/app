@@ -15,11 +15,9 @@ app.config['MAIL_DEFAULT_SENDER'] = 'mohamedriyazafzal@gmail.com'
 mail = Mail(app)
 cors = CORS(app)
 app.config['CORS_HEADERS'] = 'Content-Type'
-
 # GLobal variables
 EMAIL=''
 USERID=''
-
 conn=ibm_db.connect("DATABASE=bludb;HOSTNAME=2f3279a5-73d1-4859-88f0-a6c3e6b4b907.c3n41cmd0nqnrk39u98g.databases.appdomain.cloud;PORT=30756;Security=SSL;SSLServerCertificate=DigiCertGlobalRootCA.crt;UID=ctb99199;PWD=GybYxLw1rHz86oSh;","","")
 
 def fetch_walletamount():
