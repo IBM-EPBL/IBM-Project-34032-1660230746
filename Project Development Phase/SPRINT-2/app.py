@@ -3,7 +3,6 @@ from flask_mail import Mail, Message
 from datetime import datetime
 from flask_cors import CORS, cross_origin
 import ibm_db
-
 app = Flask(__name__, template_folder = 'templates')
 app.config['SECRET_KEY'] = 'top-secret!'
 app.config['MAIL_SERVER'] = 'smtp.sendgrid.net'
